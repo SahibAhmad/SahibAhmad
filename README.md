@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** different aspects of backend engineering!**
 
-- 👨‍💻 All of my projects are available at [https://sahibahmad.github.io/index.html](https://sahibahmad.github.io/index.html)
+- 👨‍💻 All of my projects are available at [https://sahibahmad.github.io/index.html](Portfolio)
 
 - 💬 Ask me about **Nodejs, react**
 
