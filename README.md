@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahib Ahmad</h1>
 <h3 align="center">Software Engineer || CSE Undergrad</h3>
 
-- 🔭 I’m currently working on **Redis**
+- 🔭 I’m currently working on **building redis from scratch to understand the lowlevel technologies!**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning ** different aspects of backend engineering!**
 
 - 👨‍💻 All of my projects are available at [https://sahibahmad.github.io/index.html](https://sahibahmad.github.io/index.html)
 
